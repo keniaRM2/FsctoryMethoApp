@@ -1,3 +1,4 @@
 #FactoryMethodApp
 **********
-Short description about the proyect
+Sample application using the Factory Method creational
+desing 
